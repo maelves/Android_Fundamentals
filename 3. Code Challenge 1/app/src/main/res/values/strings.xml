@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Code Challenge 1</string>
+    <string name="logintitle">LOGIN</string>
+    <string name="i_accept_t_amp_c"><![CDATA[I accept T&C]]></string>
+    <string name="submit_button">submit</string>
+    <string name="output">Email: %1$s \n Phone: %2$s</string>
+</resources>
