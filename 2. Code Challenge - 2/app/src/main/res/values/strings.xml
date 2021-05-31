@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Code Challenge - 2</string>
+    <string name="this_is_an_orange_textview">This is an Orange TextView</string>
+    <string name="this_is_a_green_textview">This is a Green TextView</string>
+    <string name="this_is_a_blue_textview">This is a Blue TextView</string>
+    <string name="this_is_a_button">THIS IS A BUTTON</string>
+    <string name="this_is_a_green_button">THIS IS A GREEN BUTTON</string>
+    <string name="this_is_an_edittext">This is an EditText</string>
+    <string name="this_is_a_new_edittext">This is a new EditText</string>
+    <string name="notify_me">Notify me</string>
+    <string name="auto_back_up">Auto back-up</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
